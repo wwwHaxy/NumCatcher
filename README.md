@@ -4,7 +4,7 @@
 
 <p align="center">
   <p align="center">
-    <img src="https://github.com/wwwHaxy/NumCatcher/blob/main/main_image.png" height="600"/>
+    <img src="https://github.com/wwwHaxy/NumCatcher/blob/main/main_image.png" height="600" width="1300"/>
   </p>
 </p>
 
