@@ -65,7 +65,7 @@ python3 main.py
 
 ## Operating Systems
 
-Windows 10, MAC, Linux, etc.
+Windows 10 (There are parts of the script that only work on Windows. But you can edit the parts that don't work on your operating system !)
 
 ## Credits
 
